@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm J Kawala/h1>
+<h1 align="center">Hi 👋, I'm J Kawala</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -47,22 +47,22 @@
   <tr>
     <td>
       <a href="https://www.github.com/thinkswell">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkswell&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawalal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
      <td>
-       <a href="https://www.github.com/thinkswell">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=thinkswell&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
+       <a href="https://www.github.com/Jkawala">
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=Jkawala&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
 <p align="center"> 
-  <a href="https://www.instagram.com/mr_thinkswell">
-    <img alt="Instagram" src="https://img.shields.io/badge/mr__thinkswell-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/spot.kawala/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Jkawala-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
-<a href="https://linkedin.com/in/-krishnavishwakarma">
+<a href="https://www.linkedin.com/in/james-kawala/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
