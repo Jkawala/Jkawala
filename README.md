@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.github.com/thinkswell">
+      <a href="https://www.github.com/Jkawala">
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawalal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
