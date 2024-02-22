@@ -34,13 +34,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.github.com/thinkswell">
-     <img src="https://github-readme-stats.vercel.app/api?username=thinkswell&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
+      <a href="https://www.github.com/Jkawla">
+     <img src="https://github-readme-stats.vercel.app/api?username=Jkawala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jkawala" />
       </a>
     </td>
     <td> 
-      <a href="https://www.github.com/thinkswell">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=thinkswell&hide_border=true&theme=tokyonight" />
+      <a href="https://www.github.com/Jkawala">
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=Jkawala&hide_border=true&theme=tokyonight" />
       </a>
     </td>
   </tr>
