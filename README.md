@@ -49,8 +49,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawala&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Jkawala's Top Languages" />
       </a>
     </td>
-    <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/GitHub%20Days-1987-blue" alt="GitHub Days">
+   <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/days%20on%20GitHub-1987-blue?style=for-the-badge&logo=github" alt="GitHub Days">
+      <br>
+      <img src="https://progress-bar.dev/1987/?scale=3650&title=Days&width=500&color=babaca&suffix=+days" alt="GitHub Progress">
     </td>
   </tr>
 </table>
