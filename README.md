@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm J Kawala</h1>
 <p align="center">
- <iframe src="https://giphy.com/embed/JYZWs0UkzK2WKBoCUM" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-JYZWs0UkzK2WKBoCUM">via GIPHY</a></p>
+ ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9jOWxjNWgwaGs4YjVxZDk4bGRsMThrd3QycDN3cTBjNW44M2VsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JYZWs0UkzK2WKBoCUM/giphy.webp)
+</p>
 </p>
 
 <p align="center">
