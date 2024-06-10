@@ -49,7 +49,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawala&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Jkawala's Top Languages" />
       </a>
     </td>
-    
+     <td>
+      <a href="https://github.com/Jkawala/javascript-mini-projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jkawala&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" alt="Jkawala's Repo" />
+      </a>
+    </td>
   </tr>
 </table>
 
