@@ -33,24 +33,24 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://www.github.com/Jkawala">
+      <a href="https://github.com/Jkawala">
         <img src="https://github-readme-stats.vercel.app/api?username=Jkawala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jkawala's GitHub Stats" />
       </a>
     </td>
     <td> 
-      <a href="https://www.github.com/Jkawala">
+      <a href="https://github.com/Jkawala">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Jkawala&hide_border=true&theme=tokyonight" alt="Jkawala's GitHub Streak" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.github.com/Jkawala">
+      <a href="https://github.com/Jkawala">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawala&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Jkawala's Top Languages" />
       </a>
     </td>
     <td>
-      <a href="https://www.github.com/Jkawala">
+      <a href="https://github.com/Jkawala">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jkawala&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" alt="Jkawala's Repo" />
       </a>
     </td>
@@ -65,7 +65,9 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 <!---
 Jkawala/Jkawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
