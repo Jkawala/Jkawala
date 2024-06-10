@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>  I'm JKawala, Software Developer :computer:<br>
+  <br>  I'm JKawala, a Software Developer :computer:<br>
   <br>
    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9jOWxjNWgwaGs4YjVxZDk4bGRsMThrd3QycDN3cTBjNW44M2VsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JYZWs0UkzK2WKBoCUM/giphy.webp" alt="Coder GIF" width="500">
  </abc>
@@ -60,7 +60,9 @@
     </td>
   </tr>
 </table>
-
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
 <p align="center"> 
   <a href="https://www.instagram.com/spot.kawala/">
     <img alt="Instagram" src="https://img.shields.io/badge/Jkawala-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
