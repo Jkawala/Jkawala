@@ -1,9 +1,11 @@
- <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm JKawala, Software Developer :computer:<br>
-<p align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9jOWxjNWgwaGs4YjVxZDk4bGRsMThrd3QycDN3cTBjNW44M2VsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JYZWs0UkzK2WKBoCUM/giphy.webp" alt="Coder GIF" width="500">
-</p>
-</p>
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>  I'm JKawala, Software Developer :computer:<br>
+  <br>
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9jOWxjNWgwaGs4YjVxZDk4bGRsMThrd3QycDN3cTBjNW44M2VsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JYZWs0UkzK2WKBoCUM/giphy.webp" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
 <p align="center">
   👀 I’m interested in software development and cybersecurity <br>
