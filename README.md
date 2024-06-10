@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"   align="center" width="30"><br>
   <br>  I'm JKawala, a Software Developer :computer:<br>
   <br>
    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9jOWxjNWgwaGs4YjVxZDk4bGRsMThrd3QycDN3cTBjNW44M2VsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JYZWs0UkzK2WKBoCUM/giphy.webp" alt="Coder GIF" width="500">
@@ -60,7 +60,7 @@
     </td>
   </tr>
 </table>
-<p align="left">
+<p align="center">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11151311250&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify GitHub Profile">
 </p>
 <p align="center"> 
