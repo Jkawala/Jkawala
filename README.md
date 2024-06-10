@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm J Kawala</h1>
 <p align="center">
- ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9jOWxjNWgwaGs4YjVxZDk4bGRsMThrd3QycDN3cTBjNW44M2VsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JYZWs0UkzK2WKBoCUM/giphy.webp)
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9jOWxjNWgwaGs4YjVxZDk4bGRsMThrd3QycDN3cTBjNW44M2VsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JYZWs0UkzK2WKBoCUM/giphy.webp" alt="Coder GIF" width="500">
 </p>
 </p>
 
