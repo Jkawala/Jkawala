@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm J Kawala</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome GIF">
+</p>
 
-
-- 👀 I’m interested in software development and cybersecurity
-- 🌱 I’m currently learning Python, #C and Ruby
-- 💞️ I’m looking to collaborate on Apps, Games and web pages 
-- 💬 Ask me about anything 👨‍💻
-- 📫 Mail me at [jameskawala20@gmail.com](mailto:jameskawala20@gmail.com)
-
-
+<p align="center">
+  👀 I’m interested in software development and cybersecurity <br>
+  🌱 I’m currently learning Python, C, and Ruby <br>
+  💞️ I’m looking to collaborate on Apps, Games, and web pages <br>
+  💬 Ask me about anything 👨‍💻 <br>
+  📫 Mail me at <a href="mailto:jameskawala20@gmail.com">jameskawala20@gmail.com</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -27,45 +28,42 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+<br/>
 
-
-<br/> <br/>
-
-<table>
+<table align="center">
   <tr>
     <td>
-      <a href="https://www.github.com/Jkawla">
-     <img src="https://github-readme-stats.vercel.app/api?username=Jkawala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jkawala" />
+      <a href="https://www.github.com/Jkawala">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jkawala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jkawala's GitHub Stats" />
       </a>
     </td>
     <td> 
       <a href="https://www.github.com/Jkawala">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=Jkawala&hide_border=true&theme=tokyonight" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Jkawala&hide_border=true&theme=tokyonight" alt="Jkawala's GitHub Streak" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.github.com/Jkawala">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawalal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawala&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Jkawala's Top Languages" />
       </a>
     </td>
-     <td>
-       <a href="https://www.github.com/Jkawala">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=Jkawala&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
+    <td>
+      <a href="https://www.github.com/Jkawala">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jkawala&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" alt="Jkawala's Repo" />
       </a>
     </td>
   </tr>
 </table>
+
 <p align="center"> 
   <a href="https://www.instagram.com/spot.kawala/">
     <img alt="Instagram" src="https://img.shields.io/badge/Jkawala-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-    
-<a href="https://www.linkedin.com/in/james-kawala/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+  <a href="https://www.linkedin.com/in/james-kawala/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 <!---
 Jkawala/Jkawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
