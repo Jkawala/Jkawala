@@ -49,10 +49,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawala&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Jkawala's Top Languages" />
       </a>
     </td>
-     <td colspan="2">
-      <a href="https://github.com/Jkawala">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Jkawala&theme=tokyonight&hide_border=true" alt="Jkawala's Activity Graph" />
-      </a>
+   <td colspan="2" align="center">
+      <!-- Replace the date in the query parameter 'since' with your GitHub join date -->
+      <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Days&query=days&url=https://api.github.com/users/Jkawala&since=2020-01-01" alt="GitHub Days">
     </td>
   </tr>
 </table>
